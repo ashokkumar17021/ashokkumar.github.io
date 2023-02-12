@@ -1,0 +1,528 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.c-year {
+    color: black;
+    font-weight: 400;
+    font-family: "Roboto";
+    padding-left: 4px;
+    font-size: 20px;
+}
+
+
+.gift-voucher {
+    color: #d0b200;
+    font-weight: bold;
+}
+
+
+
+.icon-bg-color {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+    margin: 15px;
+    border-radius: 48px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.follow-us-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.follow-us-section {
+    background-color: #f9fbfe;
+
+}
+
+
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.healthy-food-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-image: linear-gradient(#d0b200, #958d00);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+
+
+
+.marqquue {
+    color: white;
+    font-weight: 800;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.view-all {
+    color: #d0b200;
+}
+
+
+
+
+.shadow-radius {
+    border-radius: 16px;
+}
+
+
+
+.item-name {
+    color: #323f4b;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+
+
+
+.Explore-menu-img {
+    border-radius: 16px;
+    margin-bottom: 23px;
+}
+
+
+
+
+.Explore-menu-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 600;
+}
+
+
+
+
+.Explore-menu-section {
+    background-color: white;
+}
+
+
+.offer {
+    font-style: italic;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+
+
+.wcu-card-heading {
+    color: #323f4b;
+    font-size: 27px;
+    font-family: "Roboto";
+}
+
+
+.wcu-card-img {
+    height: 90px;
+    width: 90px;
+    margin-top: 15px;
+}
+
+
+
+.wcu-card-container {
+    background-color: #f9fbfe;
+    border-radius: 10px;
+}
+
+
+.wcu-description {
+    color: #597184;
+    font-size: 17px;
+    font-family: "Roboto";
+
+}
+
+
+
+.wcu-heading {
+    color: #183656;
+    font-weight: 600;
+    font-family: "Roboto";
+    font-size: 35px;
+}
+
+
+.wcu-section {
+    background-color: #e5eaf4;
+}
+
+
+.order-button {
+    color: #d0b200;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: transparent;
+    border-color: #d0b200;
+
+}
+
+.View-Menu-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-radius: 8px;
+    border: 0px;
+    margin-right: 10px;
+}
+
+
+
+.banner-para {
+    color: white;
+    font-size: 28px;
+    font-weight: 300;
+    font-family: "Roboto";
+}
+
+
+
+.banner-heading {
+    color: white;
+    font-size: 45px;
+    font-weight: 300;
+    font-family: "Roboto";
+}
+
+
+
+.food-munch-banner-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
+
+#navitem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navitem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navitem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navitem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+
+/* servieCss*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+section {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column {
+    width: 100%;
+    padding: 0 1em 1em 1em;
+    text-align: center;
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+    padding: 2em 1.5em;
+    background: linear-gradient(#ffffff 50%, #2c7bfe 50%);
+    background-size: 100% 200%;
+    background-position: 0 2.5%;
+    border-radius: 5px;
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #1f194c;
+    margin: 1em 0;
+}
+
+p {
+    color: #575a7b;
+    font-size: 15px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+}
+
+.icon-wrapper {
+    background-color: #2c7bfe;
+    position: relative;
+    margin: auto;
+    font-size: 30px;
+    height: 2.5em;
+    width: 2.5em;
+    color: #ffffff;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    transition: 0.5s;
+}
+
+.card:hover {
+    background-position: 0 100%;
+}
+
+.card:hover .icon-wrapper {
+    background-color: #ffffff;
+    color: #2c7bfe;
+}
+
+.card:hover h3 {
+    color: #ffffff;
+}
+
+.card:hover p {
+    color: #f0f0f0;
+}
+
+@media screen and (min-width: 768px) {
+    section {
+        padding: 0 2em;
+    }
+
+    .column {
+        flex: 0 50%;
+        max-width: 50%;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    section {
+        padding: 1em 3em;
+    }
+
+    .column {
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }
+}
+
+.margin-bottom {
+    margin-bottom: 0px;
+}
+
+/*orderCss*/
+
+.row {
+    display: -ms-flexbox;
+    /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap;
+    /* IE10 */
+    flex-wrap: wrap;
+    margin: 0 -16px;
+}
+
+.col-25 {
+    -ms-flex: 25%;
+    /* IE10 */
+    flex: 25%;
+}
+
+.col-50 {
+    -ms-flex: 50%;
+    /* IE10 */
+    flex: 50%;
+}
+
+.col-75 {
+    -ms-flex: 75%;
+    /* IE10 */
+    flex: 75%;
+}
+
+.col-25,
+.col-50,
+.col-75 {
+    padding: 0 16px;
+}
+
+
+
+input[type=text] {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+label {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.icon-container {
+    margin-bottom: 20px;
+    padding: 7px 0;
+    font-size: 24px;
+}
+
+.btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    width: 100%;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+.btn:hover {
+    background-color: #45a049;
+}
+
+span.price {
+    float: right;
+    color: grey;
+}
+
+@media (max-width: 800px) {
+    .row {
+        flex-direction: column-reverse;
+    }
+
+    .col-25 {
+        margin-bottom: 20px;
+    }
+}
+
+.status-for-payment {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+/*aboutCss*/
+.about {
+    color: #009900;
+    margin-bottom: 12px;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: "Sans-Serif";
+}
+
+.about-img {
+    width: 300px;
+    border-radius: 8px;
+    margin-right: 8px;
+}
